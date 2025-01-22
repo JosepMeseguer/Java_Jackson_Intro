@@ -16,4 +16,4 @@ T5. Una vez cubierto el aprendizaje de todas las funcionalidades necesarias, pas
     2. Creamos una enumeracion con los nombres de los servicios de aplicacion
     3. Creamos un catálgo que crea y retorna el objeto que implementa cada uno de los servicios por su nombre (el patron Singleton puede sustituirse por Factory/Builder) 
 
-Queda para otro proyecto mostrar como queda integrado dentro de una arquitectura limpia específica
+Queda para otro proyecto mostrar como se integra el diseño definitivo dentro de una arquitectura limpia específica
