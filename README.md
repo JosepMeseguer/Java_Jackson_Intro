@@ -1,3 +1,5 @@
+# 1. Serailization JSON/XML 
+
 Proyecto ejemplo para una introducción a las posibilidades del framework Jackson para externalizar el servicio de serialización JSON de objetos de negocio.
 
 El proyecto presenta una evolucion formativa desde unas primeras pruebas funcionales para obtener la serializacion/deserializacion JSON de un objeto,
